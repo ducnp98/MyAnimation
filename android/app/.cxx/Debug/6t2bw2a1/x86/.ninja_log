@@ -1,0 +1,5 @@
+# ninja log v5
+0	47	0	/Users/duc.nguyenphuoc/Documents/ReactNative/MyAnimation/android/app/.cxx/Debug/6t2bw2a1/x86/CMakeFiles/cmake.verify_globs	720acba0df13205
+1	2222	1737795383275560568	CMakeFiles/appmodules.dir/Users/duc.nguyenphuoc/Documents/ReactNative/MyAnimation/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o	3923796d57210979
+2	2478	1737795383527173717	CMakeFiles/appmodules.dir/OnLoad.cpp.o	87af7615f428a81f
+2478	2660	1737795383715315908	/Users/duc.nguyenphuoc/Documents/ReactNative/MyAnimation/android/app/build/intermediates/cxx/Debug/6t2bw2a1/obj/x86/libappmodules.so	553bddf784dcfb9d
